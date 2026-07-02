@@ -66,8 +66,8 @@ const config: Config = {
     navbar: {
       title: 'HYU Vibe Coding',
       logo: {
-        alt: 'HYU Vibe Coding Logo',
-        src: 'img/logo.svg',
+        alt: '한양대학교 로고',
+        src: 'img/HYU_logo_singlecolor.png',
       },
       items: [
         {
