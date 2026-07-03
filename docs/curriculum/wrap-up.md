@@ -1,11 +1,11 @@
 ---
 id: wrap-up
-title: "Section 5. 마무리 & 다음 단계"
+title: "마무리 & 다음 단계"
 sidebar_position: 6
 description: 오늘 배운 것을 습관으로 만들기 · 30분
 ---
 
-# Section 5. 마무리 & 다음 단계
+# 마무리 & 다음 단계
 
 > 오늘 배운 것을 습관으로 만들기 · 30분
 

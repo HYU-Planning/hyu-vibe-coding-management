@@ -80,7 +80,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'envSetupSidebar',
           position: 'left',
-          label: '로컬 PC 세팅',
+          label: '로컬 PC 세팅 가이드',
         },
         {
           href: 'https://github.com/HYU-Planning/hyu-vibe-coding-management',

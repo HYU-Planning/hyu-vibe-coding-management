@@ -1,6 +1,6 @@
 ---
 id: nodejs-install
-title: "2. PowerShell에서 Node.js 최신 LTS 설치"
+title: "PowerShell에서 Node.js 최신 LTS 설치"
 sidebar_position: 2
 description: AI CLI 도구와 clasp 실행에 필요한 Node.js LTS 설치 방법
 ---
@@ -115,4 +115,4 @@ $env:PATH -split ';' | Select-String 'npm'
 
 ---
 
-**다음:** [Section 1. Git 기초 개념 & 설치 & 실습](/curriculum/git-basics)
+**다음:** [Git 기초 개념 & 설치 & 실습](/env-setup/powershell-commands)

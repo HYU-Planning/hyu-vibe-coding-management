@@ -1,12 +1,12 @@
 ---
 id: intro
-title: 바이브 코딩, 이제 제대로 관리해봅시다
+title: 바이브 코딩 관리
 sidebar_position: 1
 description: Git · GitHub · AI CLI · clasp로 배우는 실전 워크플로우
 slug: /
 ---
 
-# 바이브 코딩, 이제 제대로 관리해봅시다
+# 바이브 코딩 관리
 
 **Git · GitHub · AI CLI · clasp로 배우는 실전 워크플로우**
 
@@ -68,4 +68,4 @@ flowchart LR
 - [ ] Google 계정 로그인 상태
 - [ ] GitHub 계정 보유 여부
 
-준비되셨다면, [Section 1. Git 기초](/curriculum/git-basics)부터 시작해봅시다.
+준비되셨다면, [Git 기초](/curriculum/git-basics)부터 시작해봅시다.

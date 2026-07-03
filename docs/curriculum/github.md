@@ -1,11 +1,11 @@
 ---
 id: github
-title: "Section 2. GitHub 개념 & 사용법"
+title: "GitHub 개념 & 사용법"
 sidebar_position: 3
 description: 내 코드를 클라우드에 안전하게 · 1시간
 ---
 
-# Section 2. GitHub 개념 & 사용법
+# GitHub 개념 & 사용법
 
 > 내 코드를 클라우드에 안전하게 · 1시간
 
@@ -61,4 +61,4 @@ push 완료 후 GitHub 웹페이지를 새로고침하면 파일이 보입니다
 
 ---
 
-**다음:** [Section 3. AI 도구 CLI 설치 & 실습](./ai-cli)
+**다음:** [AI 도구 CLI 설치 & 실습](./ai-cli)

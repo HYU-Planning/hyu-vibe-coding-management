@@ -1,11 +1,11 @@
 ---
 id: git-basics
-title: "Section 1. Git 기초 개념 & 설치 & 실습"
+title: "Git 기초 개념 & 설치 & 실습"
 sidebar_position: 2
 description: 실습 환경 준비부터 코드의 타임머신까지 · 1.5시간
 ---
 
-# Section 1. Git 기초 개념 & 설치 & 실습
+# Git 기초 개념 & 설치 & 실습
 
 > 실습 환경 준비부터 코드의 타임머신까지 · 1.5시간
 
@@ -138,4 +138,4 @@ git log                         # 지금까지의 커밋 이력 확인
 
 ---
 
-**다음:** [Section 2. GitHub 개념 & 사용법](./github)
+**다음:** [GitHub 개념 & 사용법](./github)

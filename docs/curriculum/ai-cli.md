@@ -1,11 +1,11 @@
 ---
 id: ai-cli
-title: "Section 3. AI 도구 CLI 설치 & 실습"
+title: "AI 도구 CLI 설치 & 실습"
 sidebar_position: 4
 description: 터미널에서 바로 AI에게 코드를 시키다 · 1시간
 ---
 
-# Section 3. AI 도구 CLI 설치 & 실습
+# AI 도구 CLI 설치 & 실습
 
 > 터미널에서 바로 AI에게 코드를 시키다 · 1시간
 
@@ -50,4 +50,4 @@ git diff 로 변경사항 확인  →  의미 단위로 나눠서 커밋
 
 ---
 
-**다음:** [Section 4. Google AppScript 프로젝트 관리](./clasp-appscript)
+**다음:** [Google AppScript 프로젝트 관리](./clasp-appscript)

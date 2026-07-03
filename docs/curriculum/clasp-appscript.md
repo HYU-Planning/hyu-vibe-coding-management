@@ -1,11 +1,11 @@
 ---
 id: clasp-appscript
-title: "Section 4. Google AppScript 프로젝트 관리"
+title: "Google AppScript 프로젝트 관리"
 sidebar_position: 5
 description: 오늘의 핵심, clasp로 연결하기 · 2시간
 ---
 
-# Section 4. Google AppScript 프로젝트 관리
+# Google AppScript 프로젝트 관리
 
 > 오늘의 핵심, clasp로 연결하기 · 2시간
 
@@ -95,4 +95,4 @@ git stash pop
 
 ---
 
-**다음:** [Section 5. 마무리 & 다음 단계](./wrap-up)
+**다음:** [마무리 & 다음 단계](./wrap-up)
