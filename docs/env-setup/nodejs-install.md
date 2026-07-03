@@ -1,6 +1,6 @@
 ---
 id: nodejs-install
-title: "PowerShell에서 Node.js 최신 LTS 설치"
+title: "Node.js 최신 LTS 설치"
 sidebar_position: 2
 description: AI CLI 도구와 clasp 실행에 필요한 Node.js LTS 설치 방법
 ---

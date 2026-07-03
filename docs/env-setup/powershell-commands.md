@@ -1,6 +1,6 @@
 ---
 id: powershell-commands
-title: "자주 사용하는 PowerShell 기본 명령어"
+title: "PowerShell 기본 명령어"
 sidebar_position: 3
 description: 실습 중 자주 쓰게 될 PowerShell 명령어를 미리 정리했습니다
 ---
@@ -88,4 +88,4 @@ function cleanUp() {
 
 ---
 
-**다음:** [Section 1. Git 기초 개념 & 설치 & 실습](/curriculum/git-basics)
+**다음:** [Git 기초 개념 & 설치 & 실습](/curriculum/git-basics)
