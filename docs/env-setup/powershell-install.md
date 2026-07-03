@@ -1,6 +1,6 @@
 ---
 id: powershell-install
-title: "Windows PowerShell 7.6.0 설치"
+title: "PowerShell 7.6.0 설치"
 sidebar_position: 1
 description: 최신 PowerShell 7을 설치하고 확인하는 방법
 ---
