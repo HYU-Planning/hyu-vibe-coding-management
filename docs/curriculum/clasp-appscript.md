@@ -7,7 +7,7 @@ description: 오늘의 핵심, clasp로 연결하기 · 2시간
 
 # Google AppScript 프로젝트 관리
 
-> 오늘의 핵심, clasp로 연결하기 · 2시간
+> 오늘의 핵심, clasp로 연결하기
 
 ## AppScript 웹 에디터의 한계
 
