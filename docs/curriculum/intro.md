@@ -54,8 +54,8 @@ flowchart LR
 |---|---|
 | 01 | [Git 기초 개념 · 설치 · 실습](/curriculum/git-basics) |
 | 02 | [GitHub 개념 · 사용법](/curriculum/github) |
-| 03 | [AI CLI 도구 설치 · 실습](/curriculum/ai-cli) |
-| 04 | [clasp · AppScript · 충돌 해결](/curriculum/clasp-appscript) |
+| 03 | [clasp · AppScript · 충돌 해결](/curriculum/clasp-appscript) |
+| 04 | [AI CLI 도구 설치 · 실습](/curriculum/ai-cli) |
 | 05 | [마무리 · 습관 정리](/curriculum/wrap-up) |
 
 ## 시작 전 확인해주세요

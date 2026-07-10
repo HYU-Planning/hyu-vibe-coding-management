@@ -1,7 +1,7 @@
 ---
 id: clasp-appscript
 title: "Google AppScript 프로젝트 관리"
-sidebar_position: 5
+sidebar_position: 4
 description: 오늘의 핵심, clasp로 연결하기 · 2시간
 ---
 
@@ -95,4 +95,4 @@ git stash pop
 
 ---
 
-**다음:** [마무리 & 다음 단계](./wrap-up)
+**다음:** [AI 도구 CLI 설치 & 실습](./ai-cli)

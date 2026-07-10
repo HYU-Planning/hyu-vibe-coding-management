@@ -1,7 +1,7 @@
 ---
 id: ai-cli
 title: "AI 도구 CLI 설치 & 실습"
-sidebar_position: 4
+sidebar_position: 5
 description: 터미널에서 바로 AI에게 코드를 시키다 · 1시간
 ---
 
@@ -50,4 +50,4 @@ git diff 로 변경사항 확인  →  의미 단위로 나눠서 커밋
 
 ---
 
-**다음:** [Google AppScript 프로젝트 관리](./clasp-appscript)
+**다음:** [마무리 & 다음 단계](./wrap-up)

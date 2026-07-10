@@ -61,4 +61,4 @@ push 완료 후 GitHub 웹페이지를 새로고침하면 파일이 보입니다
 
 ---
 
-**다음:** [AI 도구 CLI 설치 & 실습](./ai-cli)
+**다음:** [Google AppScript 프로젝트 관리](./clasp-appscript)
