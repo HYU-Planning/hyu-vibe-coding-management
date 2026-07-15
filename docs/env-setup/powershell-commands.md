@@ -88,4 +88,4 @@ function cleanUp() {
 
 ---
 
-**다음:** [Git 기초 개념 & 설치 & 실습](/curriculum/git-basics)
+**다음:** [GitHub 개인 액세스 토큰(PAT) 생성](./github-pat)

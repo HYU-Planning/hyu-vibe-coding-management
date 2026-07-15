@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'HYU Vibe Coding',
+  title: 'HYU Vibe Coding 가이드',
   tagline: '한양대학교 바이브 코딩(Vibe Coding) 방법론 교육 자료',
   favicon: 'img/favicon.ico',
 
@@ -69,7 +69,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'HYU Vibe Coding',
+      title: 'HYU Vibe Coding 가이드',
       logo: {
         alt: '한양대학교 로고',
         src: 'img/HYU_logo_singlecolor.png',
@@ -85,7 +85,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'envSetupSidebar',
           position: 'left',
-          label: '로컬 PC 세팅 가이드',
+          label: '환경 설정 가이드',
         },
         {
           href: '/hyu-vibe-coding-management/files/vibe-coding-slides.pdf',
