@@ -2,12 +2,12 @@
 id: final-submission
 title: "최종 결과물 제출 안내"
 sidebar_position: 7
-description: 오늘 실습한 결과물을 조직 GitHub 저장소에 올리기
+description: 최종 결과물을 조직 GitHub 저장소에 올리기
 ---
 
 # 최종 결과물 제출 안내
 
-> 오늘 실습한 결과물을 조직 GitHub 저장소에 올리기
+> 최종 결과물을 조직 GitHub 저장소에 올리기
 
 ## 왜 제출이 필요한가요?
 
